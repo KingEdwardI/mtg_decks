@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Arixmethes - Creatures of the Deep</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Mana Crypt"/>
+        <card number="1" name="Jeweled Lotus"/>
+        <card number="1" name="Mana Reflection"/>
+        <card number="1" name="Genesis Wave"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Grow from the Ashes"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Overwhelming Stampede"/>
+        <card number="1" name="Elvish Piper"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Explosive Vegetation"/>
+        <card number="1" name="Journey of Discovery"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Circuitous Route"/>
+        <card number="1" name="Wild Growth"/>
+        <card number="1" name="Wilderness Reclamation"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Dark Depths"/>
+        <card number="1" name="Thriving Grove"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Nyx Lotus"/>
+        <card number="1" name="Gilded Lotus"/>
+        <card number="3" name="Forest (b)"/>
+        <card number="3" name="Forest (a)"/>
+        <card number="3" name="Forest"/>
+        <card number="1" name="Sapphire Medallion"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="Omniscience"/>
+        <card number="1" name="Simic Growth Chamber"/>
+        <card number="1" name="Simic Ascendancy"/>
+        <card number="1" name="Aesi, Tyrant of Gyre Strait"/>
+        <card number="1" name="Koma, Cosmos Serpent"/>
+        <card number="1" name="Arixmethes, Slumbering Isle"/>
+        <card number="1" name="Nadir Kraken"/>
+        <card number="1" name="Shipbreaker Kraken"/>
+        <card number="1" name="Scourge of Fleets"/>
+        <card number="1" name="Breaching Leviathan"/>
+        <card number="1" name="Inkwell Leviathan"/>
+        <card number="1" name="Slinn Voda, the Rising Deep"/>
+        <card number="1" name="Stormtide Leviathan"/>
+        <card number="1" name="Whelming Wave"/>
+        <card number="1" name="Tropical Island"/>
+        <card number="3" name="Island"/>
+        <card number="3" name="Island (a)"/>
+        <card number="3" name="Island (b)"/>
+        <card number="1" name="Serpent of Yawning Depths"/>
+        <card number="1" name="Stormsurge Kraken"/>
+        <card number="1" name="Tromokratis"/>
+        <card number="1" name="Kiora Bests the Sea God"/>
+        <card number="1" name="Kiora, Behemoth Beckoner"/>
+        <card number="1" name="Kiora, Master of the Depths"/>
+        <card number="1" name="Kiora, the Crashing Wave"/>
+        <card number="1" name="Quest for Ula's Temple"/>
+        <card number="1" name="Growth Spiral"/>
+        <card number="1" name="Archetype of Imagination"/>
+        <card number="1" name="Prime Speaker Zegana"/>
+        <card number="1" name="Nezahal, Primal Tide"/>
+        <card number="1" name="Thryx, the Sudden Storm"/>
+        <card number="1" name="Reef Worm"/>
+        <card number="1" name="Gyre Engineer"/>
+        <card number="1" name="Hydroid Krasis"/>
+        <card number="1" name="Fleet Swallower"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Engulf the Shore"/>
+        <card number="1" name="Rewind"/>
+        <card number="1" name="Stroke of Genius"/>
+        <card number="1" name="Plasm Capture"/>
+        <card number="1" name="Rapid Hybridization"/>
+        <card number="1" name="Arcane Denial (b)"/>
+        <card number="1" name="Swan Song"/>
+        <card number="1" name="High Tide (c)"/>
+        <card number="1" name="Fierce Guardianship"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="Pull from Tomorrow"/>
+        <card number="1" name="Mana Drain"/>
+        <card number="1" name="Rite of Replication"/>
+        <card number="1" name="Inundate"/>
+        <card number="1" name="Thriving Isle"/>
+        <card number="1" name="Botanical Sanctum"/>
+        <card number="1" name="Flooded Grove"/>
+        <card number="1" name="Hinterland Harbor"/>
+    </zone>
+</cockatrice_deck>

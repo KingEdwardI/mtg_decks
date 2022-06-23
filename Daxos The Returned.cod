@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Daxos The Returned</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Daxos the Returned"/>
+        <card number="20" name="Plains"/>
+        <card number="18" name="Swamp"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Grafdigger's Cage"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Norn's Annex"/>
+        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Talisman of Hierarchy"/>
+        <card number="1" name="Authority of the Consuls"/>
+        <card number="1" name="Cruel Reality"/>
+        <card number="1" name="Curse of Death's Hold"/>
+        <card number="1" name="Curse of Disturbance"/>
+        <card number="1" name="Curse of Exhaustion"/>
+        <card number="1" name="Curse of Misfortunes"/>
+        <card number="1" name="Curse of Oblivion"/>
+        <card number="1" name="Curse of Shallow Graves"/>
+        <card number="1" name="Curse of Thirst"/>
+        <card number="1" name="Curse of Vengeance"/>
+        <card number="1" name="Curse of Vitality"/>
+        <card number="1" name="Curse of Wizardry"/>
+        <card number="1" name="Curse of the Forsaken"/>
+        <card number="1" name="Ethereal Armor"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Guilty Conscience"/>
+        <card number="1" name="Intangible Virtue"/>
+        <card number="1" name="Leyline of Sanctity"/>
+        <card number="1" name="Overwhelming Splendor"/>
+        <card number="1" name="Sigil of the Empty Throne"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Sphere of Safety"/>
+        <card number="1" name="Spirit Loop"/>
+        <card number="1" name="Stab Wound"/>
+        <card number="1" name="Torment of Scarabs"/>
+        <card number="1" name="Trespasser's Curse"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="1" name="Faith's Reward"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Curse of the Cabal"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Fumigate"/>
+        <card number="1" name="Open the Armory"/>
+        <card number="1" name="Open the Vaults"/>
+        <card number="1" name="Plea for Guidance"/>
+        <card number="1" name="Three Dreams"/>
+        <card number="1" name="Aegis of the Gods"/>
+        <card number="1" name="Auramancer"/>
+        <card number="1" name="Aven Mindcensor"/>
+        <card number="1" name="Bitterheart Witch"/>
+        <card number="1" name="Cavalier of Night"/>
+        <card number="1" name="Celestial Ancient"/>
+        <card number="1" name="Doomwake Giant"/>
+        <card number="1" name="Eidolon of Countless Battles"/>
+        <card number="1" name="Heliod's Pilgrim"/>
+        <card number="1" name="Ironclad Slayer"/>
+        <card number="1" name="Mesa Enchantress"/>
+        <card number="1" name="Nyx-Fleece Ram"/>
+        <card number="1" name="Silent Sentinel"/>
+        <card number="1" name="Starfield Mystic"/>
+        <card number="1" name="Stuffy Doll"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="True Believer"/>
+        <card number="1" name="Windborn Muse"/>
+    </zone>
+</cockatrice_deck>

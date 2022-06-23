@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Eldrazi Drain - Ulamog, the Ceaseless Hunger </deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ulamog, the Ceaseless Hunger"/>
+        <card number="1" name="Ulamog, the Infinite Gyre"/>
+        <card number="1" name="Ulamog's Crusher"/>
+        <card number="1" name="Ulamog's Nullifier"/>
+        <card number="1" name="Pathrazer of Ulamog"/>
+        <card number="1" name="Circuit Mender"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Shrine of the Forsaken Gods"/>
+        <card number="1" name="Eye of Ugin"/>
+        <card number="1" name="Eldrazi Temple"/>
+        <card number="1" name="Sanctum of Ugin"/>
+        <card number="1" name="Urza's Power Plant"/>
+        <card number="1" name="Urza's Tower"/>
+        <card number="1" name="Urza's Mine"/>
+        <card number="1" name="Urza's Incubator"/>
+        <card number="1" name="Urza's Factory"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Tomb of the Spirit Dragon"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Zhalfirin Void"/>
+        <card number="1" name="Spawning Bed"/>
+        <card number="1" name="Darksteel Citadel"/>
+        <card number="1" name="Bonders' Enclave"/>
+        <card number="1" name="Buried Ruin"/>
+        <card number="1" name="War Room"/>
+        <card number="1" name="Guildless Commons"/>
+        <card number="1" name="Mage-Ring Network"/>
+        <card number="1" name="Radiant Fountain"/>
+        <card number="1" name="Ruins of Oran-Rief"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Homeward Path"/>
+        <card number="1" name="Wasteland (A)"/>
+        <card number="1" name="Strip Mine"/>
+        <card number="1" name="Emergence Zone"/>
+        <card number="1" name="Dreamstone Hedron"/>
+        <card number="1" name="Cavern of Souls"/>
+        <card number="1" name="Crumbling Vestige"/>
+        <card number="1" name="Unknown Shores"/>
+        <card number="6" name="Wastes (a)"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Basalt Monolith"/>
+        <card number="1" name="Ur-Golem's Eye"/>
+        <card number="1" name="Gilded Lotus"/>
+        <card number="1" name="Pristine Talisman"/>
+        <card number="1" name="Chromatic Orrery"/>
+        <card number="1" name="Blinkmoth Urn"/>
+        <card number="1" name="Jeweled Lotus"/>
+        <card number="1" name="Kozilek, the Great Distortion"/>
+        <card number="1" name="Eldrazi Mimic"/>
+        <card number="1" name="Breaker of Armies"/>
+        <card number="1" name="Reality Smasher"/>
+        <card number="1" name="Bane of Bala Ged"/>
+        <card number="1" name="Desolation Twin"/>
+        <card number="1" name="Endless One"/>
+        <card number="1" name="Forsaken Monument"/>
+        <card number="1" name="Doubling Cube"/>
+        <card number="1" name="Deceiver of Form"/>
+        <card number="1" name="Blight Herder"/>
+        <card number="1" name="Kozilek's Channeler"/>
+        <card number="1" name="Conduit of Ruin"/>
+        <card number="1" name="All Is Dust"/>
+        <card number="1" name="Endbringer"/>
+        <card number="1" name="Oblivion Sower"/>
+        <card number="1" name="Titan's Presence"/>
+        <card number="1" name="Ugin, the Ineffable"/>
+        <card number="1" name="Thran Dynamo"/>
+        <card number="1" name="Scour from Existence"/>
+        <card number="1" name="Palladium Myr"/>
+        <card number="1" name="Geode Golem"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Hedron Crawler"/>
+        <card number="1" name="Plague Myr"/>
+        <card number="1" name="Ornithopter"/>
+        <card number="1" name="Warping Wail"/>
+        <card number="1" name="Spatial Contortion"/>
+        <card number="1" name="Skittering Invasion"/>
+        <card number="1" name="Introduction to Prophecy"/>
+        <card number="1" name="Environmental Sciences"/>
+        <card number="1" name="Expanded Anatomy"/>
+        <card number="1" name="Ugin, the Spirit Dragon"/>
+        <card number="1" name="Platinum Angel"/>
+        <card number="1" name="Aurora of Emrakul"/>
+        <card number="1" name="Artisan of Kozilek"/>
+        <card number="1" name="Moonsilver Key"/>
+        <card number="1" name="Blightsteel Colossus"/>
+        <card number="1" name="Emrakul, the Aeons Torn"/>
+        <card number="1" name="Inventors' Fair"/>
+        <card number="1" name="Void Winnower"/>
+        <card number="1" name="Manakin"/>
+        <card number="1" name="Gruesome Slaughter"/>
+        <card number="1" name="Wandering Archaic"/>
+        <card number="1" name="Akroma's Memorial"/>
+    </zone>
+</cockatrice_deck>
